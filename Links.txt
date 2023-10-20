@@ -1,0 +1,4 @@
+
+https://github.com/GurpreetSingh-Projects/GitHub-UI-Project/blob/main/LICENSE
+https://github.com/GurpreetSingh-Projects/GitHub-UI-Project/blob/main/README.md
+https://github.com/GurpreetSingh-Projects/GitHub-UI-Project/blob/main/CODE_OF_CONDUCT.md
